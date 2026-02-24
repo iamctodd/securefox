@@ -5,3 +5,4 @@
   from = "/api/weather"
   to = "/.netlify/functions/weather"
   status = 200
+  force = true
